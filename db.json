@@ -1,4 +1,5 @@
- [
+ {
+    "superheroes": [
         {
             "name": "Superman",
             "powers": "Super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor",
@@ -50,4 +51,4 @@
             "urlPicture": "https://www.dccomics.com/sites/default/files/styles/character_thumb_160x160/public/Char_Profile_GreenLantern_20200721_5f173ad01724e2.92436411.jpg"
         }
     ]
-
+}
